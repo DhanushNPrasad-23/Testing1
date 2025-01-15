@@ -33,6 +33,3 @@ while game:
 
 
 screen.exitonclick()
-
-
-test
